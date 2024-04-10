@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+    <link rel="stylesheet" href="styles.css"> 
+    <style>
+        body{
+            background-image: url(https://t4.ftcdn.net/jpg/01/31/49/59/360_F_131495901_xJVJdYoLiMM5VCFJEesLoO0IU0sJc5KQ.jpg);
+            background-size: cover;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Under Construction...</h1>
+    <a href="href=index.html">Home</a>
+    <ol>
+        <li>Education:
+            <ul>
+                <li>High School Diplomac
+                <li>
+                <li>Current BYU Student</li>
+            </ul>
+        <li> Skills:
+            <ul>
+                <li>Spanish Speaker
+                <li>Musican
+                <li>Amazing friend
+            </ul>
+        <li> Experience:
+        </li>18+ years of experience</li>
+        </li>
+    </ol>
+</body>
+</html>

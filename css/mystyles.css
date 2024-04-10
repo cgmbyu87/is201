@@ -1,0 +1,18 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.site-heading-lower{
+     
+    font-family: 'Courier New', Courier, monospace;
+}
+.mb-3{
+    font-family: 'Courier New', Courier, mon; !important;
+    color: yellow !important;
+}
+    
+.notyellow{
+    color:brown !important;  
+}
+.intro-text{
+    box-shadow: 15px 15px 20px rgba(0, 0,0 , 0.5);
+}

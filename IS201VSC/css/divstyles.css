@@ -1,0 +1,70 @@
+/*positioning styles*/
+.common {
+    position: absolute;
+    border: 5px solid:lightcoral;
+    background-color:lightcyan;
+}
+.bottom{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    font-style: italic;
+    font-size: small;
+    background:lightcoral;
+}
+.top{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    z-index: 1;
+    margin: 10px;
+}
+.content{
+    top:0px
+    left: 0px;
+    right: 0px;
+    height: 90%;
+}
+.nav{
+    position: relative;
+    float: right;
+    color: lightcoral;
+    z-index: 1;
+    margin: 7px;
+
+}
+.rizz {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lightcoral;
+    border: cornflowerblue;
+    background-color: beige 
+    
+}
+
+.rizz:hover {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    background-color: aquamarine;
+    border: lightseagreen;
+    color: lightpink
+    
+    
+}
+.title2{
+    position: relative;
+    text-align: center;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    margin: 2px;
+    font-family: 'Courier New', Courier, monospace;
+    color: burlywood;
+    background-color: cadetblue;
+}
+.mainbody{
+    top: 175px 
+    
+}
